@@ -1,0 +1,42 @@
+body {
+	background-color: #f5f5f5;
+}
+
+footer {
+	margin-top: 20px;
+	background-color: #535353;
+}
+
+.footer-header {
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: #333;
+}
+
+footer p, address, dt {
+	color: #ccc;
+}
+
+
+.spacetop {
+	margin-top: 20px;
+}
+
+#img-estudio {
+	width: 15%;
+	margin-right: 10px;
+}
+
+#tuits {
+	margin: 0 auto;
+}
+
+.mywell {
+  padding: 4px;
+  background-color: #ffffff;
+  border: 1px solid #dddddd;
+  border-radius: 4px;
+  -webkit-transition: all 0.2s ease-in-out;
+          transition: all 0.2s ease-in-out;
+}
